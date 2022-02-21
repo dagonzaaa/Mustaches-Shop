@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.da91ac75.css",
+    "main.js": "/static/js/main.50fcc4fe.js",
+    "static/js/787.129d5728.chunk.js": "/static/js/787.129d5728.chunk.js",
+    "static/media/the-beacon.jpg": "/static/media/the-beacon.b04f53564a318adb3b89.jpg",
+    "static/media/mustache3.jpg": "/static/media/mustache3.471e5e1e41c659f447db.jpg",
+    "static/media/mustache-brothers.jpg": "/static/media/mustache-brothers.62497d4b35093fa4177a.jpg",
+    "static/media/in-the-country.jpg": "/static/media/in-the-country.6b08f77439f225624e53.jpg",
+    "static/media/mustache1.jpg": "/static/media/mustache1.cab6ea251bf498912d46.jpg",
+    "static/media/mustache8.jpg": "/static/media/mustache8.f7c06dc09cf197ce8a5f.jpg",
+    "static/media/mustache9.jpg": "/static/media/mustache9.ce07a18cb14e8a0bcd98.jpg",
+    "static/media/photographer.jpg": "/static/media/photographer.bb407e85e6b0cda0496b.jpg",
+    "static/media/the-actor.jpg": "/static/media/the-actor.ac41abf930c3655d903f.jpg",
+    "static/media/mustache2.jpg": "/static/media/mustache2.eabea14696ec4b4df3fe.jpg",
+    "static/media/cutting-mustache.jpg": "/static/media/cutting-mustache.5225bcb74bab25a6cf19.jpg",
+    "static/media/mustache7.jpg": "/static/media/mustache7.ff0074c6bf3f6d9d76f0.jpg",
+    "static/media/mustache5.jpg": "/static/media/mustache5.66333fee68543c928bd4.jpg",
+    "static/media/the-father.jpg": "/static/media/the-father.549569aa632104bca73c.jpg",
+    "static/media/mustache6.jpg": "/static/media/mustache6.d20b2ec9e87f8e804e0c.jpg",
+    "static/media/mustache4.jpg": "/static/media/mustache4.f64e6c1c10666cf9303e.jpg",
+    "static/media/the-nerd.jpg": "/static/media/the-nerd.581306a95755251c38ce.jpg",
+    "static/media/logo.jpg": "/static/media/logo.32e80b90d12cfc1090ce.jpg",
+    "index.html": "/index.html",
+    "main.da91ac75.css.map": "/static/css/main.da91ac75.css.map",
+    "main.50fcc4fe.js.map": "/static/js/main.50fcc4fe.js.map",
+    "787.129d5728.chunk.js.map": "/static/js/787.129d5728.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da91ac75.css",
+    "static/js/main.50fcc4fe.js"
+  ]
+}
